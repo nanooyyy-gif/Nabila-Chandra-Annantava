@@ -2,4 +2,3 @@
 # Nama : Nabila Chandra Annantava
 # NIM : 251451011
 # Mata Kuliah : Pengantar Teknik Informatika
-# Prodi : Teknik Informatika
